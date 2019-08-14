@@ -1,1 +1,1 @@
-alert('Hello World!");
+alert('Hello World!"); // вывод на экран приветствия
